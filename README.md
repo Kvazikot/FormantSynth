@@ -1,9 +1,9 @@
 # FormantSynth
 # FormantSynth
 
-Р¤РѕСЂРјР°РЅС‚РЅС‹Р№ СЃРёРЅС‚РµР·Р°С‚РѕСЂ
-Р°РІС‚РѕСЂ Р‘Р°СЂР°РЅРѕРІ Р’Р»Р°РґРёРјРёСЂ (vdbarster@gmail.com)
-Р›РёС†РµРЅР·РёСЏ GPL
+Формантный синтезатор
+автор Баранов Владимир (vdbarster@gmail.com)
+Лицензия GPL
 
 Program Homepage
 https://sites.google.com/site/appfivedev/moi-programmy/formantnyj-sintezator

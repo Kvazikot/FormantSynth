@@ -1,12 +1,9 @@
 # FormantSynth
 # FormantSynth
 
-Формантный синтезатор
-автор Баранов Владимир (vdbarster@gmail.com)
-Лицензия GPL
-
-Program Homepage
-https://sites.google.com/site/appfivedev/moi-programmy/formantnyj-sintezator
+Vladimir Baranov
+vsbaranov83@gmail.com
+https://twitter.com/Kvazikot
 
 To use FormantSynth in multiple voices mode you need to create mixer device.
 Put this following strings in  ~/.asoundrc file and restart your machine.
